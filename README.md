@@ -16,3 +16,4 @@ Currently, two official plugins are available:
 2: Technologies used:
 * Vscode editor.
 * HTML,CSS Javascript, Reactjs, OpenweatherApi.
+
